@@ -7,3 +7,6 @@
 6. git reset [files] - отмена git add
 7. git reset --hard - отмена всех изменений, которые есть в git status
 8. git diff -  показывает все внесенные изменения в файлы
+
+9. git branch [branch_name] - создание ветки
+10. git checkout [branch_name] - переключиться на ветку
