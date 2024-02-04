@@ -10,3 +10,4 @@
 
 9. git branch [branch_name] - создание ветки
 10. git checkout [branch_name] - переключиться на ветку
+11. git branch -d [branch_name] - удалить ветку
